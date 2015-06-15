@@ -7,7 +7,7 @@ from print_pretty import pretty_print
 
 # EDMUNDS API KEY
 # Enter your own API key below or make make a text file
-# with the name 'API_KEY' and just place the key in there
+# with the name 'API_KEY' and just place the key in there.
 API_KEY =open('API_KEY.txt', 'r').read()
 
 def clear():
